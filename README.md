@@ -9,7 +9,7 @@ The project focuses on detecting financial fraud using machine learning algorith
 # Business Problem Addressed:
 The project addresses the critical issue of financial fraud, which poses significant risks to financial institutions and customers. By accurately identifying fraudulent transactions, financial service companies can implement proactive measures to prevent fraud, safeguard their assets and maintain customer trust. Utilizing machine learning algorithms for fraud detection enables the automation of this process, allowing for timely detection and prevention of fraudulent activities.
 
-# Project Implementation
+# Project Implementation:
 Implement the project using Python scripts or Jupyter Notebooks.
 
 The project involves the following steps:
@@ -25,7 +25,7 @@ The project involves the following steps:
 
 - Interpretation and Deployment: Interpret the results of the models and consider deploying the best-performing model to detect fraudulent transactions in a real-world financial system.
 
-# Detailed Code 
+# Detailed Code:
 The code is structured to perform the following tasks:
 
 1. **Data Loading and Exploration**:
